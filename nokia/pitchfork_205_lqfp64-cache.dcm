@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DG9421
+D Analog Switch ( 6pins TSOP)
+K SWITCH
+F analog_mux&switches/dg9421-22.pdf
+$ENDCMP
+#
+#End Doc Library

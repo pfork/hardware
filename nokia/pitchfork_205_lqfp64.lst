@@ -1,0 +1,132 @@
+eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Mon 02 Mar 2015 03:36:07 PM CET
+#Cmp ( order = Reference )
+| BT1        BATTERY_LI-ION;
+| C1         22pF        ;
+| C2         22pF        ;
+| C3         100nF       ;
+| C4         100nF       ;
+| C5         4.7uF       ; x7r ceram
+| C6         4.7uF       ;
+| C7         2.2uF       ;
+| C8         2.2uF       ;
+| C9         100nF       ;
+| C10        100nF       ;
+| C11        100nF       ;
+| C12        10uF        ;
+| C13        4.7uF       ;
+| C14        100nF       ;
+| C15        1uF         ;
+| C16        10nF        ;
+| C17        1nF         ;
+| C20        10uF        ;
+| C21        33nF        ;
+| C22        1pF         ; NPO +-0.1pF
+| C23        1.5pF       ; NPO +-0.1pF
+| C24        4.7pF       ; NPO +-0.25pF
+| C25        22pF        ; NPO2%
+| C26        22pF        ; NPO2%
+| C27        2.2nF       ;
+| C28        1uF         ;
+| C29        1uF         ;
+| C30        1uF         ;
+| C31        1uF         ;
+| C32        2.2uF       ;
+| C33        2.2uF       ;
+| C34        100nF       ;
+| D1         SML-211YTT86;
+| IC1        STM32F2XX_64LQFP;
+| JP1        JUMPER      ;
+| K1         CONN_3      ;
+| L1         10uH        ;
+| L2         22@100MHz   ;
+| L3         30@100MHz   ;
+| L5         3.9nH       ;
+| L6         8.2nH       ;
+| L7         2.7nH       ;
+| R2         1k          ;
+| R3         2k          ;
+| R4         22k         ;
+| R5         330K        ;
+| SW2        EP11S1D1SAPE;
+| SW3        EP11S1D1SAPE;
+| SW4        EP11S1D1SAPE;
+| SW5        EP11S1D1SAPE;
+| SW_POWER1  GS02MSABE   ;
+| SW_RFPWR1  GS02MSABE   ;
+| U1         LM3670      ;
+| U2         USBCONN     ;
+| U3         MCP73832-2  ;
+| U4         NRF24L01+   ;
+| U5         UG-2864H    ;
+| U6         MICROSDCARD ;
+| X1         25MHz       ; HC-49SM/20pF
+| X2         16MHz       ; C 12pF
+| Y1         CHIP_ANTENNA;
+#End Cmp
+
+#Cmp ( order = Value )
+| BATTERY_LI-ION BT1       ;
+| 1pF          C22       ; NPO +-0.1pF
+| 1.5pF        C23       ; NPO +-0.1pF
+| 4.7pF        C24       ; NPO +-0.25pF
+| 22pF         C1        ;
+| 22pF         C2        ;
+| 22pF         C25       ; NPO2%
+| 22pF         C26       ; NPO2%
+| 1nF          C17       ;
+| 2.2nF        C27       ;
+| 10nF         C16       ;
+| 33nF         C21       ;
+| 100nF        C3        ;
+| 100nF        C9        ;
+| 100nF        C10       ;
+| 100nF        C11       ;
+| 100nF        C14       ;
+| 100nF        C34       ;
+| 100nF        C4        ;
+| 1uF          C15       ;
+| 2.2uF        C7        ;
+| 2.2uF        C8        ;
+| 2.2uF        C32       ;
+| 2.2uF        C33       ;
+| GS02MSABE    SW_POWER1 ;
+| GS02MSABE    SW_RFPWR1 ;
+| 1uF          C28       ;
+| 1uF          C29       ;
+| 1uF          C30       ;
+| 1uF          C31       ;
+| 4.7uF        C13       ;
+| 4.7uF        C5        ; x7r ceram
+| 4.7uF        C6        ;
+| 10uF         C12       ;
+| 10uF         C20       ;
+| SML-211YTT86 D1        ;
+| STM32F2XX_64LQFP IC1       ;
+| JUMPER       JP1       ;
+| CONN_3       K1        ;
+| 2.7nH        L7        ;
+| 3.9nH        L5        ;
+| 8.2nH        L6        ;
+| 10uH         L1        ;
+| 22@100MHz    L2        ;
+| 30@100MHz    L3        ;
+| 1k           R2        ;
+| 2k           R3        ;
+| 22k          R4        ;
+| 330K         R5        ;
+| EP11S1D1SAPE SW2       ;
+| EP11S1D1SAPE SW3       ;
+| EP11S1D1SAPE SW4       ;
+| EP11S1D1SAPE SW5       ;
+| USBCONN      U2        ;
+| NRF24L01+    U4        ;
+| MICROSDCARD  U6        ;
+| LM3670       U1        ;
+| MCP73832-2   U3        ;
+| UG-2864H     U5        ;
+| 16MHz        X2        ; C 12pF
+| 25MHz        X1        ; HC-49SM/20pF
+| CHIP_ANTENNA Y1        ;
+#End Cmp
+
+#End List
