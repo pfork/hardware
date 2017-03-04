@@ -1,4 +1,4 @@
-update=Sat 04 Mar 2017 07:07:33 PM CET
+update=Sat 04 Mar 2017 07:36:28 PM CET
 last_client=kicad
 [cvpcb]
 version=1
@@ -128,4 +128,3 @@ LibName75=Worldsemi
 LibName76=Xicor
 LibName77=xilinx
 LibName78=Zilog
-LibName79=lib/dg9421
