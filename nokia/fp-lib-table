@@ -18,7 +18,7 @@
   (lib (name w_switch)(type Legacy)(uri "$(KIPRJMOD)/lib/w_switch.mod")(options "")(descr ""))
   (lib (name pitchfork3310)(type KiCad)(uri "$(KIPRJMOD)/lib/pitchfork3310.pretty")(options "")(descr ""))
   (lib (name Diodes_SMD)(type KiCad)(uri /usr/share/kicad/modules/Diodes_SMD.pretty)(options "")(descr ""))
-  (lib (name pitchforkv02)(type KiCad)(uri /home/stef/tasks/pitchfork/board/lib/pitchforkv02.pretty)(options "")(descr ""))
+  (lib (name pitchforkv02)(type KiCad)(uri /home/s/tasks/pitchfork/board/lib/pitchforkv02.pretty)(options "")(descr ""))
   (lib (name TO_SOT_Packages_SMD)(type KiCad)(uri /usr/share/kicad/modules/TO_SOT_Packages_SMD.pretty)(options "")(descr ""))
   (lib (name DFN/QFN)(type KiCad)(uri /usr/share/kicad/modules/Housings_DFN_QFN.pretty/)(options "")(descr ""))
   (lib (name SSOP)(type KiCad)(uri /usr/share/kicad/modules/Housings_SSOP.pretty/)(options "")(descr ""))
