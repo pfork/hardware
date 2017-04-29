@@ -1844,7 +1844,7 @@ Wire Wire Line
 Wire Wire Line
 	8000 2750 8750 2750
 Wire Wire Line
-	8500 3250 8500 2550
+	8500 2550 8500 3250
 Connection ~ 8500 2650
 Connection ~ 8500 2750
 Connection ~ 8250 2750
@@ -2306,11 +2306,24 @@ Wire Notes Line
 Wire Wire Line
 	3000 700  3500 700 
 Wire Wire Line
-	8200 3250 8500 3250
+	8500 3250 8200 3250
 Wire Wire Line
 	8200 3450 8300 3450
 Wire Wire Line
 	8500 3450 8650 3450
 Wire Wire Line
 	8650 3450 8650 3500
+$Comp
+L GND #PWR?
+U 1 1 59051031
+P 650 1650
+F 0 "#PWR?" H 650 1650 30  0001 C CNN
+F 1 "GND" H 650 1580 30  0001 C CNN
+F 2 "" H 650 1650 60  0000 C CNN
+F 3 "" H 650 1650 60  0000 C CNN
+	1    650  1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1050 1650 650  1650
 $EndSCHEMATC
