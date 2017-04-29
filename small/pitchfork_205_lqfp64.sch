@@ -18,7 +18,6 @@ LIBS:cypress
 LIBS:dc-dc
 LIBS:device
 LIBS:digital-audio
-LIBS:diode
 LIBS:display
 LIBS:dsp
 LIBS:elec-unifil
@@ -73,7 +72,6 @@ LIBS:transistors
 LIBS:ttl_ieee
 LIBS:valves
 LIBS:video
-LIBS:Worldsemi
 LIBS:Xicor
 LIBS:xilinx
 LIBS:Zilog
