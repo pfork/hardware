@@ -1,4 +1,6 @@
 // based on Parametric and Customizable Project Enclosure by ffleurey is licensed under the Creative Commons - Attribution - Non-Commercial license. 
+// https://www.thingiverse.com/thing:155001/
+
 enclosure_inner_length = 68.5;
 enclosure_inner_width = 33;
 enclosure_inner_depth = 10;
