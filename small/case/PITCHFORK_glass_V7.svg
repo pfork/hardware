@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg7560"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="PITCHFORK_glass_V7.svg">
+  <defs
+     id="defs7562" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80485597"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.1811"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7565">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06299222;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="m 494.78212,470.90451 -1.76878,0.17345 -30.1718,2e-5 -50.41601,-2e-5 -2.9312,2e-5 -38.94623,0 -110.63154,-1e-5 -1.76878,-0.17345 -1.3842,-0.41785 -1.27541,-0.67831 -1.11798,-0.91325 -0.91765,-1.11255 -0.68159,-1.26927 -0.41992,-1.37753 -0.17433,-1.76022 0,-14.24216 0,-62.50749 0,-3.91128 0,-17.71653 0,-13.32093 0.17433,-1.76023 0.41989,-1.37753 0.68159,-1.26926 0.91764,-1.11256 1.11799,-0.91323 1.27541,-0.67833 1.38419,-0.41785 1.76871,-0.17345 9.75767,-1e-5 17.7165,-10e-6 44.93831,10e-6 17.71661,0 43.91242,0 17.71664,1e-5 41.39925,-2e-5 17.7165,10e-6 22.22295,0 1.76878,0.17344 1.3842,0.41786 1.27541,0.67833 1.11798,0.91323 0.91765,1.11256 0.68156,1.26926 0.41984,1.37753 0.17433,1.76023 0,65.99786 0,29.05511 0,16.64542 -0.17433,1.76021 -0.41984,1.37754 -0.68156,1.26927 -0.91765,1.11256 -1.11798,0.91323 -1.27541,0.67832 z m -200.24929,-109.75349 31.88976,10e-6 0,-10.62993 -31.88976,0 z"
+       class="outer" />
+  </g>
+</svg>
